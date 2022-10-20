@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @HeimNad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeimNad&show_icons=true&hide_title=true">
 
-<!---
-HeimNad/HeimNad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello there! 🎈🎈🎈
+- 👋 Hi, Im @HeimNad, a high school students in china
+- 👀 I'm interested in Vue and other front-end frame
+- 😀 I'm learning some programming languages too.
